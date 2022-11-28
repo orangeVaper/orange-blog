@@ -2,7 +2,7 @@
 
 next.js/react/typescriptの勉強のためのブログです。
 
-This is the using [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) plus TypeScript.
+ブログはこちらからダウンロードしました。 [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter)
 
 The blog posts are stored in `/_posts` as Markdown files with front matter support. Adding a new Markdown file in there will create a new blog post.
 
