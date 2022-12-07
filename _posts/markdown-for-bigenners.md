@@ -2,7 +2,7 @@
 title: 'Markdown記法メモ'
 excerpt: 'エンジニアはMarkdownを好んで使うということで、このブログでも記事に使っているMarkdown記法についてまとめてみようかと思います。以前お世話になった凄腕エンジニアもよくわからない記法や記号を使っていて、その時にMarkdown記法の存在を知ったものです。'
 coverImage: '/assets/blog/blog-starter-kit-install/cover2.jpg'
-date: '2022-11-26T18:18:07.322Z'
+date: '2022-11-30T18:18:07.322Z'
 author:
   name: orangeVager
   picture: '/assets/blog/authors/orangeVaper.png'
