@@ -1,13 +1,13 @@
 ---
 title: 'Next.js blog-starter-kitのインストール'
 excerpt: '今までLPのコーディングをしていたコーダーがエンジニアに昇級したくなり、勉強してるんですがやはり、なにか実際に手を動かしてモノを作っていかなければということで手をつけ始めたのがテックブログなるものでした。果たしてものになるのかどうなのかやってみます。まずはblog-starterになります。'
-coverImage: '/assets/blog/preview/cover.jpg'
+coverImage: '/assets/blog/blog-starter-kit-install/cover2.jpg'
 date: '2022-11-26T18:18:07.322Z'
 author:
   name: orangeVager
   picture: '/assets/blog/authors/orangeVaper.png'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/blog-starter-kit-install/cover2.jpg'
 ---
 
 ## ブログを書き始めようと思ったきっかけ
