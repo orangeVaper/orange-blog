@@ -5,7 +5,7 @@ coverImage: '/assets/blog/blog-starter-kit-install/cover2.jpg'
 date: '2022-11-30T18:18:07.322Z'
 author:
   name: orangeVager
-  picture: '/'
+  picture: '/assets/blog/authors/orangeVaper.png'
 ogImage:
   url: '/assets/blog/blog-starter-kit-install/cover2.jpg'
 ---
