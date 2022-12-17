@@ -5,14 +5,14 @@ coverImage: '/assets/blog/blog-starter-kit-install/cover2.jpg'
 date: '2022-11-30T18:18:07.322Z'
 author:
   name: orangeVager
-  picture: '/assets/blog/authors/orangeVaper.png'
+  picture: '/'
 ogImage:
   url: '/assets/blog/blog-starter-kit-install/cover2.jpg'
 ---
 
 ## Markdown記法とは
 
-[Getting Started](https://www.markdownguide.org/getting-started/)こちらを参考にしています。
+[Getting Started](https://www.markdownguide.org/getting-started/)を参考にしました
 
 > Markdownはあなたが平文テキスト文書にフォーマット要素を追加するために使用することができる軽量のマークアップ言語です。2004年にジョン・グルーバーによって作成され、Markdownは現在、世界で最も人気のあるマークアップ言語の一つです。
 
@@ -20,11 +20,11 @@ ogImage:
 
 ## なぜMarkdownなのか？
 
-Why we use markdown? とぐぐると、
-
 > Markdownは、キーボードから指を離すことなく、あなたの文章に集中することによって、書式設定ツールバーとマウスクリックのすべての気晴らしを取り払う。上級ライターは、その場でテキストをスタイライズできるこのようなシームレスな体験が好きです。
 
-キーボードから指を離すことなく、とありますが、今のところどうしても指をキーボードから話してしまいますｗ vimやneovimなども使い慣れたらもっといい文章環境になるかもしれませんね。
+ってことです
+
+キーボードから指を離すことなく、とありますが、今のところどうしても指をキーボードから離してしまいますｗ vimやneovimなども使い慣れたらもっといい文章環境になるかもしれませんね
 
 ## Markdown記法の使い方
 
@@ -122,20 +122,43 @@ _ _ _
 
 ### 引用
 
+引用は、> を行頭に書きます。ネストも可能です
+
+blockquotesで囲まれますが、そのblockquotesの中で段落を設けたい場合には、空白行の先頭に>を書きます
+
+段落扱いなので、brのような改行ではなく、pの扱いですので、段落感のマージンが付きます
+
+```
+> 今日は寝る前にコーヒーを飲んでしまったんだ
+>
+> だから眠れなくなっちゃったよ
+>
+>> 本当は紅茶を飲むつもりだったんだ
+>>
+>> 明日は紅茶を飲むぞ
+>>
+>>> 明日紅茶で眠れたらいいね
+```
+> 今日は寝る前にコーヒーを飲んでしまったんだ
+>
+> だから眠れなくなっちゃったよ
+>
+>> 本当は紅茶を飲むつもりだったんだ
+>>
+>> 明日は紅茶を飲むぞ
+>>
+>>> 明日紅茶で眠れたらいいね
+
+### 画像
+
+画像表示もできます！
+
+`![OrangeVaper](/assets/blog/authors/orangeVaper.png)`
+
+![OrangeVaper](/assets/blog/authors/orangeVaper.png)
 
 
-### 二重引用
 
-
-[Blog-Starter-Kit](https://vercel.com/templates/next.js/blog-starter-kit)をclone。
-
-
-
-## インストール状況を確認
-
-
-
-## authorsの画像
 
 
 
