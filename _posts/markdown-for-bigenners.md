@@ -1,13 +1,13 @@
 ---
 title: 'Markdown記法メモ'
 excerpt: 'エンジニアはMarkdownを好んで使うということで、このブログでも記事に使っているMarkdown記法についてまとめてみようかと思います。以前お世話になった凄腕エンジニアもよくわからない記法や記号を使っていて、その時にMarkdown記法の存在を知ったものです。'
-coverImage: '/assets/blog/blog-starter-kit-install/cover2.jpg'
+coverImage: '/assets/blog/markdown-for-bigenners/coffee.jpg'
 date: '2022-11-30T18:18:07.322Z'
 author:
   name: orangeVager
   picture: '/assets/blog/authors/orangeVaper.png'
 ogImage:
-  url: '/assets/blog/blog-starter-kit-install/cover2.jpg'
+  url: '/assets/blog/markdown-for-bigenners/coffee.jpg'
 ---
 
 ## Markdown記法とは
@@ -157,10 +157,5 @@ blockquotesで囲まれますが、そのblockquotesの中で段落を設けた�
 
 ![OrangeVaper](/assets/blog/authors/orangeVaper.png)
 
-
-
-
-
-
-
-
+------
+Main Imageは [Unsplash](https://unsplash.com/ja?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)の[thirdy perasol](https://unsplash.com/@thirdyp_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)が撮影した写真
