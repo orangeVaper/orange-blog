@@ -30,6 +30,16 @@ module.exports = {
         md: '0 8px 30px rgba(0, 0, 0, 0.12)',
       },
     },
+    fontFamily: {
+      body: [
+        'Helvetica Neue',
+        'Arial',
+        'Hiragino Kaku Gothic ProN',
+        'Hiragino Sans',
+        'Meiryo',
+        'sans-serif',
+      ],
+    }
   },
   plugins: [],
 }
