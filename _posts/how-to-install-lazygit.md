@@ -22,10 +22,10 @@ bash
 ```
 fish
 ```
-で戻ります。
+で戻る。
 
 [LazyGit#ubuntuページ](https://github.com/jesseduffield/lazygit?tab=readme-ov-file#ubuntu)
 
-のコマンドを実行します。
+のコマンドを実行。
 
 
